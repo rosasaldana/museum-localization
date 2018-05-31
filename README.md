@@ -13,7 +13,7 @@
 * [Scrum and Other Notes](./Notes)
 * [Archived MATLAB Code from 17 Spring](https://github.com/praenubilus/3D-Localization)
 * [Archived Python Code from 18 Spring](https://github.com/shandysulen/3D-Audio-For-Museum-Exhibits)
-
+* [Sensor Manufacture Website](https://marvelmind.com)
 ## Project Member Contacts
 * Pravin
 * Sonali
